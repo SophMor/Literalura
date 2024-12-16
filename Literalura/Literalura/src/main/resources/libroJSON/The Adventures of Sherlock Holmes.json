@@ -1,0 +1,10 @@
+{
+  "titulo" : "The Adventures of Sherlock Holmes",
+  "autor" : [ {
+    "nombre" : "Doyle, Arthur Conan",
+    "fechaDeNacimiento" : "1859",
+    "fechaDeFallecimiento" : "1930"
+  } ],
+  "idiomas" : [ "en" ],
+  "numeroDeDescargas" : 18860.0
+}

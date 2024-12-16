@@ -1,0 +1,10 @@
+{
+  "titulo" : "The Picture of Dorian Gray",
+  "autor" : [ {
+    "nombre" : "Wilde, Oscar",
+    "fechaDeNacimiento" : "1854",
+    "fechaDeFallecimiento" : "1900"
+  } ],
+  "idiomas" : [ "en" ],
+  "numeroDeDescargas" : 34963.0
+}
